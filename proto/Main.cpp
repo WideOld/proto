@@ -77,5 +77,5 @@ void detect(IplImage *img)
 int main(int argc, char* argv[])
 {
 	fromUrl(camUrl);
-    return 0;
+    return 0; //
 }
